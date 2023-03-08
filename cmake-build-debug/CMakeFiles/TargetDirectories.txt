@@ -1,0 +1,3 @@
+/home/nox/Dev/C++/life-game-console/cmake-build-debug/CMakeFiles/life_game_console.dir
+/home/nox/Dev/C++/life-game-console/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nox/Dev/C++/life-game-console/cmake-build-debug/CMakeFiles/rebuild_cache.dir
